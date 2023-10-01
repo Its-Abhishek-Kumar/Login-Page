@@ -10,7 +10,7 @@ section {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background: url(img2.jpg);
+    background: url(../img2.jpg);
     background-size: cover;
     background-position: center;
     animation: animateBg 5s linear infinite;
